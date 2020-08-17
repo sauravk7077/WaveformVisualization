@@ -4,5 +4,5 @@
 
 ### Attribution
 
-Music by (Bensound)[https://bensound.com]
+Music by [Bensound](https://bensound.com)
 
